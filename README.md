@@ -36,7 +36,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- ![EDM Ex 1 2_page-0001](https://github.com/Arun2005-create/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/138849356/0312990d-0ea5-47e2-bbf9-6ee14cc6567b)
+ ![EDM Ex 1 2_page-0001 (1)](https://github.com/Arun2005-create/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/138849356/9c50c10a-f442-4bb2-8695-ae4764b065d7)
+
 
  
  ## RESULT
